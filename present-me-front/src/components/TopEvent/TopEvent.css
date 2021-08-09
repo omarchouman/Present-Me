@@ -1,0 +1,47 @@
+.slide-container {
+  width: 50%;
+
+  border-radius: 20px;
+}
+.flex {
+  display: flex;
+  justify-content: center;
+}
+
+.each-slide > div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+  border-radius: 20px;
+}
+
+.each-slide span {
+  padding: 20px;
+  font-size: 20px;
+  background: #efefef83;
+  text-align: center;
+  font-weight: 700;
+  border-radius: 5px;
+  box-shadow: 0px 62px 80px rgba(0, 0, 0, 0.5),
+    0px 22.631px 29.2013px rgba(0, 0, 0, 0.344991),
+    0px 10.9869px 14.1767px rgba(0, 0, 0, 0.278145),
+    0px 5.386px 6.94968px rgba(0, 0, 0, 0.221855),
+    0px 2.12963px 2.74791px rgba(0, 0, 0, 0.155009);
+}
+.shdw-box {
+  margin-top: 3rem;
+  box-shadow: 0px 62px 80px rgba(0, 0, 0, 0.5),
+    0px 22.631px 29.2013px rgba(0, 0, 0, 0.344991),
+    0px 10.9869px 14.1767px rgba(0, 0, 0, 0.278145),
+    0px 5.386px 6.94968px rgba(0, 0, 0, 0.221855),
+    0px 2.12963px 2.74791px rgba(0, 0, 0, 0.155009);
+}
+
+.top-eventTitle {
+  display: inline;
+  padding: 10px;
+  border-top: 2px solid #2c57a1;
+}

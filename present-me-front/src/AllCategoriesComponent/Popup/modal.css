@@ -1,0 +1,13 @@
+.modal-style {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgb(25, 25, 66);
+  padding: 50px;
+  z-index: 1000;
+  width: 40%;
+  min-height: 60%;
+  border-radius: 20px;
+  box-shadow: -1px 4px 20px -6px rgba(10, 10, 10, 0.75);
+}

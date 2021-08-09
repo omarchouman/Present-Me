@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Rosario:wght@500&display=swap");
+
+.title-1 {
+  display: flex;
+  margin: 5rem 0 5rem 0;
+  justify-content: center;
+}
+
+.title-1 h1 {
+  font-family: "Rosario", sans-serif;
+  padding: 1rem;
+  border-top: 1px solid rgba(0, 0, 0, 0.301);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.301);
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  text-align: center;
+}

@@ -1,0 +1,63 @@
+.logincontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 30rem;
+  
+}
+.logincontainer1 h2{
+  color: white;
+}
+.loginiconz{
+  color: #2C57A1;
+}
+.logincontainer1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #2C57A1;
+  
+  width: 23rem;
+  height: 23rem;
+  border-radius: 25px;
+  
+}
+
+.loginemail {
+  outline: none;
+  border: none;
+  width: 250px;
+  height: 25px;
+  
+  
+}
+
+.loginpassword {
+  outline: none;
+  border: none;
+  width: 250px;
+  height: 25px;
+  
+}
+
+.logincontainer button {
+  width: 70px;
+  height: 25px;
+  border-radius: 20px;
+  border: none;
+  color: #2C57A1;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+}
+
+.loginicon{
+  display: flex;
+  align-items: center;
+  background-color:white;
+  border-radius: 20px;
+  padding: 5px;
+  margin-bottom: 10px;
+  box-shadow: -1px 4px 20px -6px rgba(0, 0, 0, 0.75);
+
+}

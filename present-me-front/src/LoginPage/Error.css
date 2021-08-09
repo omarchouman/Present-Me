@@ -1,0 +1,18 @@
+.errorfield {
+  display: flex;
+  justify-content: center;
+  
+}
+.errfield {
+  background-color: rgb(230, 30, 30);
+  width: 40%;
+  height: 2.5rem;
+  border-radius: 20px;
+  padding: 10px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  position: relative;
+  top: 29px;
+
+}

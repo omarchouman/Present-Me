@@ -1,0 +1,66 @@
+.hiddenbutton {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+  opacity: 0;
+}
+
+.btnmainone {
+  position: relative;
+  bottom: 30px;
+  display: flex;
+  justify-content: center;
+}
+.btnmainone button {
+  border: none;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 14px;
+  background: #05668d;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  width: 7rem;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.btnmainone button:hover {
+  background: #000;
+  text-decoration: none;
+}
+.overpop {
+  overflow: scroll;
+}
+.dashbaord-btn {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 1.5rem;
+}
+.dashbaord-btn button {
+  border: none;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  background: #05668d;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+  width: 9rem;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+  text-transform: capitalize;
+}
+.dashbaord-btn button:hover {
+  background: #000;
+  text-decoration: none;
+}
